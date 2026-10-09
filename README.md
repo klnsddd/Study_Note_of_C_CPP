@@ -6,7 +6,7 @@ My personal C programming study notes, organized from
 basic concepts to advanced topics, data structures, and algorithms.
 
 ### 1. C Fundamentals
-1. [Introduction to C++](./CPP/Introduction.md)
+1. [Introduction to C++](./C++/Introduction.md)
 2. Keywords — `关键字.md`
 3. Basic Data Types — `基本数据类型.md`
 4. Constants and Variables — `常量和变量.md`
